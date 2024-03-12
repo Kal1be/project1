@@ -32,7 +32,7 @@ function App() {
         initial={{x:-100,opacity:.5,y:-50}}
         transition={{duration:2}}
         whileInView={{x:10,opacity:1}}
-        src="/adele2.jpg" className="w-24 h-24 rounded-full" alt="" />
+        src="/dev.jpg" className="w-24 h-24 rounded-full" alt="" />
        </div>
      )
   }
